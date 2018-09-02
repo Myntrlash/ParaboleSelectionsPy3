@@ -1,0 +1,189 @@
+sentence,label
+Football player plays for football team,1
+Lionel Messi plays for Barcelona,1
+Barcelona is a football team,1
+Christiano Ronaldo plays for Juventus,1
+Christiano Ronaldo is a football player,1
+Christiano Ronaldo is a football team,0
+Christiano Ronaldo plays for Barcelona,0
+Football player plays for Barcelona,0
+Lionel Messi plays for Juventus,0
+Barcelona is Juventus,0
+Christiano Ronaldo is Barcelona,0
+Christiano Ronaldo is Juventus,0
+Lionel Messi is a Football player,1
+Juventus is a football team,1
+Juventus is Barcelona,0
+Lionel Messi is Christiano Ronaldo,0
+Barcelona plays for football team,0
+Plants exhale oxygen.,1
+Human beings inhale oxygen.,1
+Plants inhale carbon di oxide.,1
+Human beings exhale carbon di oxide.,1
+Carbon di oxide is a gas.,1
+Oxygen is a gas.,1
+Plants inhale carbon oxygen,0
+Carbon di oxide is Oxygen,0
+Human beings inhale carbon di oxide,0
+Pen writes on paper.,1
+Pencil writes on paper.,1
+Eraser erases pencil.,1
+Paper belongs in copy.,1
+Ram writes in copy.,1
+Ram writes in Pioneer.,1
+Shahrukh Khan is an actor.,1
+Actor dances with actresses.,1
+Actresses dances with businessmen.,1
+Sharukh Khan dances with Rani Mukherjee.,1
+Madhuri Dixit dances with Aditya Chopra.,1
+Actresses dances with Rani Mukherjee,0
+Paper belongs in Eraser,0
+Eraser writes on paper.,0
+Shahrukh Khan is an Actresses,0
+Pencil writes on Pen,0
+Entrepreneur creates businesses.,1
+Businesses creates jobs.,1
+Rajib is an entrepreneur.,1
+Rajib owns a company.,1
+Cricketer plays cricket.,1
+Foootballer plays football.,1
+Footballer do not play cricket.,1
+Cricketer do not play football.,1
+Luka Modric do not play cricket.,1
+Virat Kohli do not play football.,1
+Virat Kohli  plays football.,0
+Plants exhale oxygen,1
+Human beings inhale oxygen.,1
+Plants inhale carbon di oxide.,1
+Human beings exhale carbon di oxide.,1
+Carbon di oxide is a gas.,1
+Oxygen is a gas,1
+Plants exhale oxygen,0
+Human beings inhale carbon dioxide,0
+Plants inhale oxygen,0
+Human beings exhale oxygen,0
+Carbon di oxide is a Human,0
+Carbon di oxide is a oxygen,0
+Carbon di oxide is a plant,0
+Oxygen is a carbon dioxide,0
+Human beings inhale gas,1
+Human beings exhale gas,1
+Plants exhale gas,1
+Plants inhale gas,1
+Oxygen is carbon dioxide,0
+Human beings is a plant,0
+Herbivore eats plant.,1
+Grass is aplant.,1
+Deer eats grass.,1
+Carnivore eats meat.,1
+Animal has meat.,1
+Tiger eats deer.,1
+Deer has meat.,1
+Tiger has meat.,1
+Herbivore eats aplant.,0
+Deer eats meat. ,0
+Grass is Deer.,0
+Carnivore eats plant.,0
+Animal has aplant.,0
+Tiger is a animal.,1
+animal is a Tiger.,0
+meat eats Deer.,0
+Deer eats Tiger.,0
+Harbivore eats Tiger.,0
+Deer eats aplant.,1
+Tiger eats Carnivore.,0
+Tiger eats grass.,0
+Grass eats meet.,0
+Tiger has Deer.,0
+Tiger eats aplant.,0
+Carnivore eats Deer.,0
+Pistol is a gun.,1
+Rifle is a gun.,1
+Rifle is automatic.,1
+Pistol has a safety catch.,1
+Beretta 70 has a safety catch.,1
+Maverick 343 is automatic.,1
+Piston is a catch.,0
+Maverick is Rifle.,0
+Piston is Maverick.,0
+pistol has Rifle.,0
+Piston has a safets catch.,0
+Beretta 343 has a safety catch.,0
+Piston is automatic.,1
+Maverick 70 has s safety catch.,0
+Rifle is automatic.,1
+Piastl 70 is automatic.,0
+Maverick is a gun.,0
+Rigle is a Maverick.,0
+Pistol is a Baretta.,0
+Baretta is a safety catch.,0
+Car drives on road.,1
+Car has four wheels.,1
+Ford fiesta has four wheels.,1
+Ford fiesta drives on road.,1
+Motorcycle has two wheels.,1
+Tvs apache has two wheels.,1
+Car has two wheels,0
+Car drives on four wheels,0
+Car is a road,0
+Ford fiesta has two wheels.,0
+Ford fiesta drives on two wheels,0
+Tvs apache has four wheels,0
+Tvs apache drives on road,1
+Food increases calories.,1
+Exercise decreases calories.,1
+Rice is food.,1
+Ram eats rice.,1
+Push up is exercise.,1
+Ram does push up.,1
+Ram eats food,1
+Ram does exercise,1
+Rice increases calories,1
+Ram is food,0
+Rice is exercise,0
+Push up eats rice,0
+Food decreases calories,0
+Ram increases calories,0
+Ram eats exercise,0
+Exercise is food,0
+Ram does food,0
+Coffee is a beverage.,1
+Tea is a beverage.,1
+Glass holds tea.,1
+Cup holds coffee.,1
+Eric drinks beverages.,1
+Coffee is a tea.,0
+Glass is a beverage.,0
+Cup holds glass,0
+Eric drinks Cup.  ,0
+Cup is a glass.,0
+Glass is a coffee.,0
+Tea is a cup.,0
+Cuo holds Eric.,0
+Eric is a beverage.,0
+Cup is a beverage.,0
+Eric is a tea.,0
+Eric drinks Glass.,0
+Beverage holds cup.,0
+Coffee holds Glass.,0
+Eric holds beverage.,0
+Band creates music.,1
+Band has singer.,1
+Singer does singing.,1
+Coldplay creates music.,1
+Christopher Martin is a singer.,1
+Coldplay has Christopher Martin.,1
+Chester Bennington was a singer.,1
+Linkin Park had Chester Bennington.,1
+Linkin Park created music.,1
+Band creates music.,1
+Band has Chester Bennington,1
+Linkin Park is a band,1
+Linkin park is a singer,0
+Band has Christopher Martin,1
+Linkin Park does singing,0
+Linkin park has singer,1
+Band is a singer,0
+Christopher Martin is a band,0
+Chester Bennington is a band,0
+Band creates singer,0
